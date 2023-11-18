@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lalouli Houssam
-- 👀 I’m interested in Web Devlopper
-- 🌱 I’m currently learning programmation in 1337
+- 👋 Hi, I’m Lalouli Houssam
+- 👀 I am interested in web developer
+- 🌱 I’m Front End Developer
 
 
 <!---
